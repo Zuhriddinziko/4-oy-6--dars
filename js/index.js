@@ -372,7 +372,7 @@
 // masala 30
 // function orta (ag1, ag2, ag3){
 //     let res ="";
-//     if (ag1===ag2+ag3){
+//     if (ag3===ag2+ag1){
 //         res = "true";
 //     }else{
 //         res = "false";
